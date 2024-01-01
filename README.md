@@ -41,12 +41,6 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Imp](https://wiki.bloodontheclocktower.com/images/5/5c/Icon_imp.png) | **Imp** | Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.
-![Fanggu](https://wiki.bloodontheclocktower.com/images/0/0e/Icon_fanggu.png) | **Fang Gu** | Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]
+![Kazali](https://wiki.bloodontheclocktower.com/images/9/9d/Kazali_icon.png) | **Kazali** | Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]
 ![Ojo](https://wiki.bloodontheclocktower.com/images/6/6f/Icon_ojo.png) | **Ojo** | Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.
-
-### Fabled
-
-Icon | Character | Text
---- | --- | ---
-![Sentinel](https://wiki.bloodontheclocktower.com/images/d/d4/Icon_sentinel.png) | **Sentinel** | There might be 1 extra or 1 fewer Outsider in play.
+![Fanggu](https://wiki.bloodontheclocktower.com/images/0/0e/Icon_fanggu.png) | **Fang Gu** | Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]
